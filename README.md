@@ -1,7 +1,7 @@
 # Diamond-Dataset
 'Diamond ' is one of the best-known and most sought-after gemstones. They have been used as decorative items since ancient times. Today, we are gonna make a model to expect its price from the Diamond dataset.
 
-Context
+
 This classic dataset contains the prices and other attributes of almost 54,000 diamonds. It's a great dataset for beginners learning to work with data analysis and visualization.
 
 Content
